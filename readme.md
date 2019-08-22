@@ -14,6 +14,8 @@ cd CryptoCurrency
 
 yarn install
 
+Go to https://coinmarketcap.com/api/ then pick the api key
+
 ## Usage
 
 cd CryptoCurrency
