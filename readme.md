@@ -2,7 +2,9 @@
 
 This is a CryptoCurrecy app created with react-native just for fun.
 
-![Main screen image](https://github.com/JoseAmorim/CryptoCurrency/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-08-22%20at%2011.06.28.png)
+<p align="center">
+  <img src="https://github.com/JoseAmorim/CryptoCurrency/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-08-22%20at%2011.06.28.png" title="hover text">
+</p>
 
 ## Installation
 
