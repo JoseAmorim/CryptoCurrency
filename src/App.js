@@ -15,7 +15,7 @@ export default () => {
         const asyncFunction = async () => {
             const response = await axios.get('https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest', {
                 headers: {
-                    'X-CMC_PRO_API_KEY': 'a2ee50d7-859f-41f9-a588-a71437b97c47'
+                    'X-CMC_PRO_API_KEY': 'YOUR_API_KEY_FROM_https://coinmarketcap.com/api/'
                 }
             })
 
