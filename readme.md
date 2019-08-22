@@ -5,12 +5,15 @@ This is a CryptoCurrecy app created with react-native just for fun.
 ## Installation
 
 git clone git@github.com:JoseAmorim/CryptoCurrency.git
+
 cd CryptoCurrency
+
 yarn install
 
 ## Usage
 
 cd CryptoCurrency
+
 react-native run-android or react-native run-ios(just if you have macOS)
 
 ## Contributing
